@@ -1,5 +1,5 @@
 ### SKR - Chess Rating Algorithm [26/02/2023]
-# Compares 2 Chess players using the ELO rating system and changes player ratings based on the outcome of their game. If a player wins a game, their rating increases, and if they lose a game, their rating decreases. Chess players are given a base rating of 1500.
+# Compares 2 Chess players using the ELO rating system and changes player ratings based on the outcome of their match. If a player wins a match, their rating increases, and if they lose a match, their rating decreases. Chess players are given a base rating of 1500.
 
 
 # Defines a Player class to store the rating of each player
